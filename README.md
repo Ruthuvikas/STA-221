@@ -12,7 +12,10 @@ Catboost
 XGboost
 
 Results:
-<img width="411" alt="conclusion" src="https://github.com/Ruthuvikas/STA-221/assets/43813488/43fc235b-3b38-4e2e-a2bb-5c025d36c13c">
+
+
+<img width="334" alt="Screenshot 2023-12-13 at 1 25 50 PM" src="https://github.com/Ruthuvikas/STA-221/assets/43813488/fe079a0b-c88e-49a6-b8b5-29fdc7448e67">
+
 
 
 
