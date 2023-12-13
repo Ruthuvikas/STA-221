@@ -19,17 +19,21 @@ Results:
 
 The comparative performance of various predictive models was evaluated based on their R2 score
 and Mean Square Error (MSE). Table 1 presents the summary of these evaluations.
+
 From the results, it is evident that the Random Forest model outperformed other models with the
 highest R2 score of 0.74, indicating a strong correlation between the predicted and observed values.
 Additionally, it achieved the lowest MSE of 0.27, suggesting a superior prediction accuracy with
 minimal error.
+
 The CatBoost and XGBoost models also showed commendable performance, with R2 scores of
 0.73 and 0.72, respectively, and relatively low MSE values of 0.29 and 0.31. These results suggest
 that ensemble methods, particularly those that implement boosting and bagging techniques, tend to
 provide more accurate and reliable predictions in our dataset.
+
 The OLS Regression model showed moderate predictive power with an R2 score of 0.68 and an
 MSE of 0.34. While it was outperformed by the ensemble methods, it still holds relevance due to its
 simplicity and interpretability in certain contexts.
+
 The Decision Tree model had the lowest R2 score of 0.62 and the highest MSE of 0.41. This could
 be attributed to its tendency to overfit the training data, leading to lower performance on the test set.
 In conclusion, the ensemble methods, particularly Random Forest, demonstrated superior predictive
